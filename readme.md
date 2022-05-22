@@ -2,28 +2,29 @@
 
 OSM (OpenStreetMap) वर मराठी भाषेतील माहिती वाढवण्यासाठी एक उपक्रम
 
-## करणे
-
-### OSM विकी वरील  माहिती
+## OSM विकी वरील  माहिती
 
 *नंतर करणे*
 
-### OSM नकाशावरील माहिती
+## OSM नकाशावरील माहिती
 
-#### ठिकाणे
+OSM वरील मराठी `name:mr` नावाच्या टॅगची संख्या:
+https://taginfo.openstreetmap.org/keys/name%3Amr
+
+### ठिकाणे
 
 https://wiki.openstreetmap.org/wiki/India/Places
 
-##### महाराष्ट्र
+#### महाराष्ट्र
 
-| पूर्ण? | place=? टॅग | अपूर्ण संख्या(२०२२-५-२२ रोजी) | overpass दुवा |
-| --- | --- | --- | --- |
-| - [ ] | place=city | ० | https://overpass-turbo.eu/s/1iFP
-| - [ ] | place=town | २१८ | https://overpass-turbo.eu/s/1iFH
-| - [ ] | place=suburb | २४९ | https://overpass-turbo.eu/s/1iFQ
-| - [ ] | place=neighbourhood | ५३६ | https://overpass-turbo.eu/s/1iFR
-| - [ ] | place=village | ५०३८ | https://overpass-turbo.eu/s/1iFS
-| - [ ] | place=hamlet | ७६६ | https://overpass-turbo.eu/s/1iFX
+| place=? टॅग | अपूर्ण संख्या(२०२२-५-२२ रोजी) | overpass दुवा
+| --- | --- | --- |
+| place=city | ० | https://overpass-turbo.eu/s/1iFP
+| place=town | २१८ | https://overpass-turbo.eu/s/1iFH
+| place=suburb | २४९ | https://overpass-turbo.eu/s/1iFQ
+| place=neighbourhood | ५३६ | https://overpass-turbo.eu/s/1iFR
+| place=village | ५०३८ | https://overpass-turbo.eu/s/1iFS
+| place=hamlet | ७६६ | https://overpass-turbo.eu/s/1iFX
 
 overpass turbo प्रश्न
 
