@@ -1,6 +1,6 @@
 # OSM मराठी
 
-OSM (OpenStreetMap) वर मराठी भाषेतील माहिती वाढवण्यासाठी एक उपक्रम
+OSM (OpenStreetMap) वर मराठी भाषेतील माहिती वाढवण्यासाठी काही माहिती व साधनांचा संग्रह
 
 ## OSM विकी वरील  माहिती
 
@@ -20,19 +20,22 @@ OSM (OpenStreetMap) वर मराठी भाषेतील माहित
 
 ## OSM नकाशावरील माहिती
 
-OSM वरील मराठी `name:mr` नावाच्या टॅगची संख्या:
+OSM वरील मराठी `name:mr` नावाच्या टॅगची माहिती:
+
 https://taginfo.openstreetmap.org/keys/name%3Amr
 
 ### ठिकाणे
 
 https://wiki.openstreetmap.org/wiki/India/Places
 
+https://wiki.openstreetmap.org/wiki/India/Administrative_Boundaries
+
 #### महाराष्ट्र
 
-| place=? टॅग | अपूर्ण संख्या(२०२२-५-२२ रोजी) | overpass दुवा
+| place=? टॅग | अपूर्ण संख्या (२०२२-५-२५ रोजी) | overpass दुवा
 | --- | --- | --- |
 | place=city | ० | https://overpass-turbo.eu/s/1iFP
-| place=town | २१८ | https://overpass-turbo.eu/s/1iFH
+| place=town | १०५ | https://overpass-turbo.eu/s/1iFH
 | place=suburb | २४९ | https://overpass-turbo.eu/s/1iFQ
 | place=neighbourhood | ५३६ | https://overpass-turbo.eu/s/1iFR
 | place=village | ५०३८ | https://overpass-turbo.eu/s/1iFS
@@ -44,22 +47,25 @@ overpass turbo प्रश्न
 
 ## साधने
 
+- देवनागरी मध्ये लिहिण्यासाठी -
 https://www.google.com/intl/mr/inputtools/try/
 
+- अनुवाद तपासण्यासाठी -
 https://translate.google.com/?sl=mr&tl=en&op=translate
 
+- विकिपीडिया वरील कोणत्याही वर्गातील सर्व पृष्ठांची यादी मिळविण्यासाठी -
 https://petscan.wmflabs.org/
-To get a simple list of all pages under category [cities and villages in maharastra](https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97:%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%B2_%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%87_%E0%A4%B5_%E0%A4%97%E0%A4%BE%E0%A4%B5%E0%A5%87)
 
-Set the following and click "Do it"
+  उदा. - [वर्ग:महाराष्ट्र राज्यातील शहरे व गावे](https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97:%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0_%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%B2_%E0%A4%B6%E0%A4%B9%E0%A4%B0%E0%A5%87_%E0%A4%B5_%E0%A4%97%E0%A4%BE%E0%A4%B5%E0%A5%87) ह्या वर्गात २०,००० पेक्षा जास्त पृष्ठ आहेत. त्यांची यादी डाउनलोड करण्यासाठी -
+
+  खालील प्रमाणे सेटिंग करा, व "Do it" बटण दाबा. 
+
 ```
 Categories page :
   Language = mr
   Categories = महाराष्ट्र राज्यातील शहरे व गावे
 
 Output page :
-  Format = plain text
+  Format = plain text (किंवा इतर कोणतेही)
   Sort = By title
 ```
-
-Copy the resulting plain text and save in a file.
