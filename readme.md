@@ -32,10 +32,10 @@ https://wiki.openstreetmap.org/wiki/India/Administrative_Boundaries
 
 #### महाराष्ट्र
 
-| place=? टॅग | अपूर्ण संख्या (२०२२-५-२५ रोजी) | overpass दुवा
+| place=? टॅग | अपूर्ण संख्या (२०२२-५-२६ रोजी) | overpass दुवा
 | --- | --- | --- |
 | place=city | ० | https://overpass-turbo.eu/s/1iFP
-| place=town | १०५ | https://overpass-turbo.eu/s/1iFH
+| place=town | ० | https://overpass-turbo.eu/s/1iFH
 | place=suburb | २४९ | https://overpass-turbo.eu/s/1iFQ
 | place=neighbourhood | ५३६ | https://overpass-turbo.eu/s/1iFR
 | place=village | ५०३८ | https://overpass-turbo.eu/s/1iFS
@@ -68,4 +68,11 @@ Categories page :
 Output page :
   Format = plain text (किंवा इतर कोणतेही)
   Sort = By title
+```
+
+अनेक वर्ग एकत्र शोधण्यासाठी, प्रत्येक ओळीवर एक वर्गाचे नाव लिहा. जसे की,
+```
+महाराष्ट्रातील_शहरे
+महाराष्ट्रातील_तालुके
+महाराष्ट्र राज्यातील शहरे व गावे
 ```
