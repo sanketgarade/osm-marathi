@@ -71,7 +71,7 @@ _(**अर्थ** - महाराष्ट्रातील (`in Maharashtra
 ![image](https://user-images.githubusercontent.com/74632379/170809419-a93fdd09-77d6-46b3-b299-cd28d3a086ee.png)
 
 
-३. अनेक ठिकाणांमधून शोधण्यासाठी प्रश्नांची संरचना - https://overpass-turbo.eu/s/1iPw
+३. अनेक ठिकाणांमधून शोधण्यासाठी प्रश्नांची संरचना - https://overpass-turbo.eu/s/1iQi
 
 ### विकिपीडिया
 
