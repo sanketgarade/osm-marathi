@@ -2,7 +2,7 @@
 
 OSM (OpenStreetMap) वर मराठी भाषेतील माहिती वाढवण्यासाठी काही माहिती व साधनांचा संग्रह
 
-## OSM विकी वरील  माहिती
+## OSM विकी वरील सामान्य माहिती
 
 *नंतर करणे*
 
@@ -41,17 +41,17 @@ https://wiki.openstreetmap.org/wiki/India/Administrative_Boundaries
 | place=village | ५०३८ | https://overpass-turbo.eu/s/1iFS
 | place=hamlet | ७६६ | https://overpass-turbo.eu/s/1iFX
 
-overpass turbo प्रश्न
-
-`type:node and name=* and name:mr!=* and place=*  in Maharashtra`
-
 ## साधने
+
+### टायपिंग व अनुवाद
 
 - देवनागरी मध्ये लिहिण्यासाठी -
 https://www.google.com/intl/mr/inputtools/try/
 
 - अनुवाद तपासण्यासाठी -
 https://translate.google.com/?sl=mr&tl=en&op=translate
+
+### विकी वर्ग
 
 - विकिपीडिया वरील कोणत्याही वर्गातील सर्व पृष्ठांची यादी मिळविण्यासाठी -
 https://petscan.wmflabs.org/
@@ -76,3 +76,13 @@ Output page :
 महाराष्ट्रातील_तालुके
 महाराष्ट्र राज्यातील शहरे व गावे
 ```
+### Overpass
+
+Overpass turbo प्रश्न
+
+जादूगारचे उदाहरण - `type:node and name=* and name:mr!=* and place=*  in Maharashtra`
+
+अर्थ - महाराष्ट्रातील (`in Maharashtra`) नाव असलेले(`name=*`), पण मराठी नाव नसलेल्या(`name:mr!=*`) अश्या ठिकाणांच्या(`place=*`) गाठी(`type:node`)
+
+
+अनेक ठिकाणांमधून शोध - https://overpass-turbo.eu/s/1iPw
