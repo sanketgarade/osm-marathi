@@ -31,14 +31,14 @@ https://taginfo.openstreetmap.org/keys/name%3Amr
 
 मराठी नाव (`name:mr` टॅग) नसलेल्या ठिकाणाची संख्या -
 
-| place=? टॅग | अपूर्ण संख्या (२०२२-५-२६ रोजी) | नकाशावर पहा. (दुव्यावर जाऊन "Run" दाबा)
-| --- | --- | --- |
-| place=city | ० 😃 | https://overpass-turbo.eu/s/1iFP
-| place=town | ० 😃 | https://overpass-turbo.eu/s/1iFH
-| place=suburb | २४९ 😟 | https://overpass-turbo.eu/s/1iFQ
-| place=neighbourhood | ५३६ 😟 | https://overpass-turbo.eu/s/1iFR
-| place=village | ५०३८ 😢 | https://overpass-turbo.eu/s/1iFS
-| place=hamlet | ७६६ 😟 | https://overpass-turbo.eu/s/1iFX
+| ठिकाण वर्ग| place=? टॅग | अपूर्ण संख्या (२०२२-५-२६ रोजी) | नकाशावर पहा. (दुव्यावर जाऊन "Run" दाबा)
+| --- | --- | --- | --- |
+| शहर| place=city | ० 😃 | https://overpass-turbo.eu/s/1iFP
+| नगर| place=town | ० 😃 | https://overpass-turbo.eu/s/1iFH
+| उपनगर| place=suburb | २४९ 😟 | https://overpass-turbo.eu/s/1iFQ
+| परिसर| place=neighbourhood | ५३६ 😟 | https://overpass-turbo.eu/s/1iFR
+| गाव| place=village | ५०३८ 😢 | https://overpass-turbo.eu/s/1iFS
+| खेडे| place=hamlet | ७६६ 😟 | https://overpass-turbo.eu/s/1iFX
 
 #### इतर राज्य/देश
 
