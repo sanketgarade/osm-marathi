@@ -35,7 +35,7 @@ https://taginfo.openstreetmap.org/keys/name%3Amr
 | --- | --- | --- | --- |
 | शहर| place=city | ० 😃 | https://overpass-turbo.eu/s/1iFP
 | नगर| place=town | ० 😃 | https://overpass-turbo.eu/s/1iFH
-| उपनगर| place=suburb | २४९ 😟 | https://overpass-turbo.eu/s/1iFQ
+| उपनगर| place=suburb | १९६ (सर्व मुंबईत) 😟 | https://overpass-turbo.eu/s/1iFQ
 | परिसर| place=neighbourhood | ५३६ 😟 | https://overpass-turbo.eu/s/1iFR
 | गाव| place=village | ५०३८ 😢 | https://overpass-turbo.eu/s/1iFS
 | खेडे| place=hamlet | ७६६ 😟 | https://overpass-turbo.eu/s/1iFX
